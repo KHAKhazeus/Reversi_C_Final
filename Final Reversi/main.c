@@ -2,7 +2,7 @@
 //  main.c
 //  Reversi
 //  Brain Code
-//  Created by 1750114 on 2018/01/05.
+//  Created by KHAKhazues on 2018/01/05.
 //
 
 #include <stdio.h>
